@@ -5,8 +5,7 @@
 
 
 ### Introduction
-In this project, SSD based object detection framework is used. Object labels is given in Object.txt file to detect the object.
-
+A synthetic time-series datasets has created with the given trend and seasonality parameters. Bi-directional __LSTM__ neural network is used to predict the signal. 
 
 ### How to create project environment and install packages:
 
@@ -21,7 +20,7 @@ pip install <package name>
 ## RUN the App
 To run the app, Go to __FRONEND__ folder and shoot this command:              
 ```bash
-streamlit run ECG.py
+streamlit run LSTMTimeseries.py
 ```
 ## From Web UI 
 
