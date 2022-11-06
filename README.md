@@ -1,12 +1,10 @@
-# LSTM-PROPHET
-
-
-# OBJECT-DETECTION
-
-
- <img align="left" width="1000" height="500" src="https://github.com/Helal-Chowdhury/OBJECT-DETECTION/blob/main/finaljpg.jpg">
+## TimeSeries Analysis
+ <img align="center" width="800" height="600" src="https://github.com/Helal-Chowdhury/LSTM-PROPHET/blob/main/UIFIG.png">
  
- ### Introduction
+
+
+
+### Introduction
 In this project, SSD based object detection framework is used. Object labels is given in Object.txt file to detect the object.
 
 
@@ -31,25 +29,8 @@ streamlit run ECG.py
  
  - click the **Detect Object** button to detect the object
 
+ <img align="center" width="1000" height="400" src="https://github.com/Helal-Chowdhury/LSTM-PROPHET/blob/main/Fig1.png">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-|  	|  	|  	|
-|---	|---	|---	|
-|<img src="https://github.com/Helal-Chowdhury/LSTM-PROPHET/blob/main/Part1.jpg" width="400" height="400"> 	| <img src="https://github.com/Helal-Chowdhury/LSTM-PROPHET/blob/main/Part2.jpg" width="400" height="400">  	|  <img src="https://github.com/Helal-Chowdhury/LSTM-PROPHET/blob/main/Part3.jpg" width="400" height="400"> 	|
