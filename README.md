@@ -24,9 +24,11 @@ streamlit run LSTMTimeseries.py
 ```
 ## From Web UI 
 
- - upload image
+ - Choose Number of Samples
+ - Initial Sample index
+ - Final Sample index
  
- - click the **Detect Object** button to detect the object
+ Error metrics __MAE__, and __MSE__ will generate and plot will be shown for visualisation.
 
  <img align="center" width="1000" height="400" src="https://github.com/Helal-Chowdhury/LSTM-PROPHET/blob/main/Fig1.png">
 
