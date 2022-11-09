@@ -9,13 +9,10 @@ A synthetic time-series datasets has created with the given trend and seasonalit
 
 ### How to create project environment and install packages:
 
-1. install packages
 ```bash
-conda env update -n <yourenvname> --file environment.yaml
-```
-Some packages have pip dependency. In this case, use  pip to install the packages.
-```bash
-pip install <package name>
+conda create --name <environment name> python=3.8
+conda activate <environment name>
+pip install -r requirements.txt
 ```
 ## RUN the App
 To run the app, Go to __FRONEND__ folder and shoot this command:              
